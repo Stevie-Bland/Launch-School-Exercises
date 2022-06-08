@@ -1,2 +1,2 @@
 ## Launch School Variables & Basic Exercises
-# Learn more at steviebland.com
+### Learn more at steviebland.com
